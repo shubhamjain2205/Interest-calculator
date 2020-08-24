@@ -1,0 +1,15 @@
+To run the following project please folow the following steps :
+
+1. Create a new Java Project in Eclipse (you can give it any name).
+
+2. In that project under the src folder create new package interestcalculator.
+
+3. Copy all the files from InterestCalculator\src\interestcalculator.
+
+4. Right click on the interestcalculator package and paste and it will work. 
+
+
+From:
+Shubham Jain
+18BCS4501
+BE CSE (IOT)
